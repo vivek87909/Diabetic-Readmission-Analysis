@@ -29,11 +29,6 @@ We identified a specific high-risk segment: Patients entering via **Emergency**,
 
 ---
 
-## 📊 Visualizations
-*(Note: Upload your Power BI screenshot here later)*
-
----
-
 ## 💻 SQL Analysis
 **Sample Query: Identifying High-Risk Patients via CTE**
 ```sql
